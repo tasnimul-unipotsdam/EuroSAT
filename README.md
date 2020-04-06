@@ -1,4 +1,8 @@
-The dataset used in this analysis is from Sentinel-2 satellite images. The dataset consists of 10 classes with a total of 27000 images. The architecture of the CNN model is based on the VGG style. Several classification matrices used to evaluate the performance of the model. The result is closely similar to the original analysis. Paper related to this dataset: https://arxiv.org/abs/1709.00029
+#Description
+
+The dataset used in this analysis is from Sentinel-2 satellite images. The dataset consists of 10 classes with a total of 27000 images. The architecture of the Convolutional Neural Network (CNN) model used in this analysis is based on the VGG style. Several classification matrices used to evaluate the performance of the model. 
+
+Original Paper related to this dataset: https://arxiv.org/abs/1709.00029
 
 References: The references for the dataset. 
 
